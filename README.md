@@ -48,3 +48,6 @@
 ---
 
 Thank you for stopping by! Feel free to connect with me anytime. 😊
+
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=green)
+
