@@ -19,6 +19,7 @@
   - 📋 **Project Management**: Trello, MS Project, Enterprise Architect
   - 🛡️ **Cybersecurity**: Cyber Threat Hunting Techniques
   - 📊 **Data Analysis**: Microsoft Power BI
+  - and MUCH MORE!
 
 ---
 
