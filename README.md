@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Hadi Alrahmani! <img src="https://readme-animated-text.hadia.com/hadi-alrahmani.svg" alt="Hadi Alrahmani" /> <img src="https://media.giphy.com/media/03VF5F34AXj8HuezBZ/giphy.gif" alt="Reading Mochi" width="75">
+# 👋 Hello, I'm Hadi Alrahmani! <img src="https://media.giphy.com/media/03VF5F34AXj8HuezBZ/giphy.gif" alt="Reading Mochi" width="75">
 
 
 
