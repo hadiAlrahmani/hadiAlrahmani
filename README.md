@@ -1,5 +1,7 @@
 # 👋 Hello, I'm Hadi Alrahmani!
 
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/03VF5F34AXj8HuezBZ" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/reading-mochi-mochimons-03VF5F34AXj8HuezBZ">via GIPHY</a></p>
+
 🚀 An enthusiastic IT professional with expertise in programming, IT management, and innovative problem-solving. Passionate about delivering impactful IT solutions through effective project management and technical proficiency.
 
 ---
