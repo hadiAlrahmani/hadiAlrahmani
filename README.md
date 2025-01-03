@@ -1,4 +1,9 @@
-# 👋 Hello, I'm Hadi Alrahmani! <img align="right" src="https://readme-animated-text.hadia.com/hadi-alrahmani.svg" alt="Hadi Alrahmani" /> <img src="https://media.giphy.com/media/03VF5F34AXj8HuezBZ/giphy.gif" alt="Reading Mochi" width="75">
+# 👋 Hello, I'm Hadi Alrahmani! <img src="https://readme-animated-text.hadia.com/hadi-alrahmani.svg" alt="Hadi Alrahmani" /> 
+
+<div style="float: right;">
+  <img src="https://media.giphy.com/media/03VF5F34AXj8HuezBZ/giphy.gif" alt="Reading Mochi" width="75">
+</div>
+
 
 🚀 An enthusiastic IT professional with expertise in programming, IT management, and innovative problem-solving. Passionate about delivering impactful IT solutions through effective project management and technical proficiency.
 
