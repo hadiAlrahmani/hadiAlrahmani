@@ -37,7 +37,7 @@
 ![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?logo=powerbi&logoColor=black)
 ![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white)
 ![Adobe Creative Suite](https://img.shields.io/badge/-Adobe-FF0000?logo=adobe&logoColor=white)
-![Xcode](https://img.shields.io/badge/-Xcode-1575F9?logo=xcode&logoColor=white)
+![Xcode](https://img.shields.io/badge/-Xcode-1575F9?logo=xcode&logoColor=white) ...
 
 ---
 
