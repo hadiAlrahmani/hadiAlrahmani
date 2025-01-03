@@ -39,7 +39,6 @@
 ![Adobe Creative Suite](https://img.shields.io/badge/-Adobe-FF0000?logo=adobe&logoColor=white)
 ![Xcode](https://img.shields.io/badge/-Xcode-1575F9?logo=xcode&logoColor=white)
 
-and MUCH MORE!
 ---
 
 ## 🎉 Fun Facts
