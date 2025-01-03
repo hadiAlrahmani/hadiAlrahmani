@@ -1,6 +1,4 @@
-# 👋 Hello, I'm Hadi Alrahmani!
-
-![Reading Mochi](https://media.giphy.com/media/03VF5F34AXj8HuezBZ/giphy.gif)
+# 👋 Hello, I'm Hadi Alrahmani! <img src="https://media.giphy.com/media/03VF5F34AXj8HuezBZ/giphy.gif" alt="Reading Mochi" width="50">
 
 🚀 An enthusiastic IT professional with expertise in programming, IT management, and innovative problem-solving. Passionate about delivering impactful IT solutions through effective project management and technical proficiency.
 
