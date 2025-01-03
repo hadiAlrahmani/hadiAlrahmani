@@ -42,8 +42,8 @@
 ---
 
 ## 🎉 Fun Facts
-- 🚀 Lifelong learner and passionate for embracing new technologies and driving innovation.
-- 🌱 Constantly exploring new tools and dedicated to finding smarter, better ways to solve problems.
+- 🌱 Lifelong learner and passionate for embracing new technologies and driving innovation.
+- 🚀 Constantly exploring new tools and dedicated to finding smarter, better ways to solve problems.
 
 ---
 
