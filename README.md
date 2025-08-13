@@ -7,7 +7,7 @@
 
 ## 📬 Let's Connect
 - 📧 **Email**: alrahmanihadi@gmail.com
-- 🌍 **LinkedIn**: https://www.linkedin.com/in/hadi-alrahmani-4361162a3/
+- 🌍 **LinkedIn**: http://www.linkedin.com/in/hadialrahmani
 - 🌐 **E-Portfolio**: https://www.canva.com/design/DAGVWpLVK1M/i7rrMesLbK_TksMFMHtJjA/view?utm_content=DAGVWpLVK1M&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h52fe6fcff8
 
 ---
